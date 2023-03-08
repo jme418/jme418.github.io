@@ -1,5 +1,5 @@
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: jme418's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: página de inicio de jme418
+description: Mantente al tanto de las actualizaciones que realizo a mi proyecto
